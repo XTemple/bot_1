@@ -1,3 +1,3 @@
 # bot_1
 
-bot_1 is a fun little email bot that may or may not be used for malicious compliance.
+This Python program automates the process of sending emails at regular intervals. It selects a subject line from subject_lines.txt and email content from bot_1_text.txt, then sends the email using an SMTP server. The script runs continuously and can send emails to multiple recipients.
